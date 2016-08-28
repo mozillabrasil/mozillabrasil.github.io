@@ -1,3 +1,4 @@
+![Versão Beta](https://img.shields.io/badge/Versão-Beta 0.1-black.svg) ![License](https://img.shields.io/badge/Licença-Mozilla Public Licence 2.0-blue.svg)
 # Mozilla Brasil
 ### Github
 
@@ -25,4 +26,4 @@
 
 Agora só navegar em [http://localhost:4000](http://localhost:4000)
 
-Dúvidas abra um issue.
+Dúvidas abra um [issue](https://github.com/mozillabrasil/mozillabrasil.github.io/issues/new).
