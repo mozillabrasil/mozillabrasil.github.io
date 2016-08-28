@@ -1,6 +1,5 @@
-https://alipseight.github.io/mozillabrasil.github.io/
 ![Versão Beta](https://img.shields.io/badge/Versão-Beta 0.1-black.svg) ![License](https://img.shields.io/badge/Licença-Mozilla Public Licence 2.0-blue.svg)
-# Mozilla Brasil
+# [Mozilla Brasil](http://mozillabrasil.github.io)
 ### Github
 
 > Este site é o projeto open source da Mozilla Brasil no github, você pode acessar nosso [site oficial aqui](http://mozillabrasil.org.br) este site é voltado para novos projetos e desenvolvimento mútuo.
